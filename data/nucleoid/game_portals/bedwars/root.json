@@ -31,10 +31,7 @@
     },
     {
       "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:bedwars/old_combat/root",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
+      "quick_portal": "nucleoid:bedwars/old_combat/root"
     }
   ]
 }
