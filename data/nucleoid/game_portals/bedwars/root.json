@@ -30,8 +30,8 @@
       }
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "quick_portal": "nucleoid:bedwars/old_combat/root"
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bedwars/old_combat/root"
     }
   ]
 }

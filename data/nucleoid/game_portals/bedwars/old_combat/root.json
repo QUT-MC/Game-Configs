@@ -30,8 +30,8 @@
       }
     },
     {
-      "type": "nucleoid_extras:quick_portal",
-      "quick_portal": "nucleoid:bedwars/root"
+      "type": "plasmid:portal",
+      "portal": "nucleoid:bedwars/root"
     }
   ]
 }
