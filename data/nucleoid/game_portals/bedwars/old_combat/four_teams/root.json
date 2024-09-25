@@ -1,7 +1,7 @@
 {
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": {
-    "id": "minecraft:red_bed",
+    "id": "minecraft:blue_bed",
     "Count": 4
   },
   "games": [
