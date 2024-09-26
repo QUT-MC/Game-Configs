@@ -5,8 +5,8 @@
     "Count": 4
   },
   "games": [
-    "microbattle:normal/four_teams/standard_micro_battle",
-    "microbattle:normal/four_teams/soul_micro_battle"
+    "microbattle:four_teams/standard_micro_battle",
+    "microbattle:four_teams/soul_micro_battle"
   ],
   "name": {
     "translate": "game.nucleoid.four_teams"

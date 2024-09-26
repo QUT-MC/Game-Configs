@@ -5,19 +5,19 @@
     "Count": 4
   },
   "games": [
-    "bedwars:normal/four_teams/aspen_forest",
-    "bedwars:normal/four_teams/desert",
-    "bedwars:normal/four_teams/forest",
-    "bedwars:normal/four_teams/overgrown",
-    "bedwars:normal/four_teams/modern",
-    "bedwars:normal/four_teams/plains",
-    "bedwars:normal/four_teams/swamp",
-    "bedwars:normal/four_teams/taiga",
-    "bedwars:normal/four_teams/cubes",
-    "bedwars:normal/four_teams/hellish_nightmare",
-    "bedwars:normal/four_teams/logs",
-    "bedwars:normal/four_teams/monument",
-    "bedwars:normal/four_teams/roadway"
+    "bedwars:four_teams/aspen_forest",
+    "bedwars:four_teams/desert",
+    "bedwars:four_teams/forest",
+    "bedwars:four_teams/overgrown",
+    "bedwars:four_teams/modern",
+    "bedwars:four_teams/plains",
+    "bedwars:four_teams/swamp",
+    "bedwars:four_teams/taiga",
+    "bedwars:four_teams/cubes",
+    "bedwars:four_teams/hellish_nightmare",
+    "bedwars:four_teams/logs",
+    "bedwars:four_teams/monument",
+    "bedwars:four_teams/roadway"
   ],
   "name": {
     "translate": "game.nucleoid.four_teams"

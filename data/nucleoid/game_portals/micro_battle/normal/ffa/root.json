@@ -2,10 +2,10 @@
   "type": "nucleoid_extras:styled/simple_menu",
   "icon": "minecraft:netherite_axe",
   "games": [
-    "microbattle:normal/ffa/standard_micro_battle",
-    "microbattle:normal/ffa/soul_micro_battle",
-    "microbattle:normal/ffa/respawner_micro_battle",
-    "microbattle:normal/ffa/soul_respawner_micro_battle"
+    "microbattle:ffa/standard_micro_battle",
+    "microbattle:ffa/soul_micro_battle",
+    "microbattle:ffa/respawner_micro_battle",
+    "microbattle:ffa/soul_respawner_micro_battle"
   ],
   "name": {
     "translate": "game.nucleoid.ffa"

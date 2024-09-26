@@ -11,7 +11,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:bedwars/root"
+      "portal": "nucleoid:bedwars/normal/root"
     },
     {
       "type": "plasmid:portal",
@@ -23,7 +23,7 @@
     },
     {
       "type": "plasmid:portal",
-      "portal": "nucleoid:micro_battle/root"
+      "portal": "nucleoid:micro_battle/normal/root"
     }
   ]
 }

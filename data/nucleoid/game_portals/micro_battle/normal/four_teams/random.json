@@ -1,4 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "game": "nucleoid:micro_battle/normal/random_four_teams"
+  "game": "nucleoid:micro_battle/random_four_teams"
 }

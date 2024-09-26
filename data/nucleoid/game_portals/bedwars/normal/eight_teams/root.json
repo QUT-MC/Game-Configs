@@ -5,7 +5,7 @@
     "Count": 8
   },
   "games": [
-    "bedwars:normal/eight_teams/beach"
+    "bedwars:eight_teams/beach"
   ],
   "name": {
     "translate": "game.nucleoid.eight_teams"

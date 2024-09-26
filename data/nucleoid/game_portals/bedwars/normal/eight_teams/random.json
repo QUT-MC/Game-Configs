@@ -1,4 +1,4 @@
 {
   "type": "plasmid:concurrent_game",
-  "game": "nucleoid:bedwars/normal/random_eight_teams"
+  "game": "nucleoid:bedwars/random_eight_teams"
 }
