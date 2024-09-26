@@ -28,6 +28,26 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:blockhunt"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:build_battle"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:parkour_run"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:paintball"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:sabotage/root",
+      "quick_portal": "nucleoid:sabotage/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
     }
   ]
 }

@@ -24,6 +24,22 @@
     {
       "type": "plasmid:portal",
       "portal": "nucleoid:micro_battle/root"
+    },
+    {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:fortress/root",
+      "quick_portal": "nucleoid:fortress/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:farmy_feud"
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "uhc:root"
     }
   ]
 }

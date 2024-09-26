@@ -1,0 +1,14 @@
+{
+    "type": "nucleoid_extras:styled/simple_menu",
+    "icon": "minecraft:suspicious_sand",
+    "games": [
+      "sabotage:hellbound",
+      "sabotage:skybound",
+      "sabotage:town",
+      "sabotage:village"
+    ],
+    "name": {
+      "translate": "gameType.sabotage.sabotage"
+    }
+  }
+  
