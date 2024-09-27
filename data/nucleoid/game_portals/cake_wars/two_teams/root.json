@@ -5,6 +5,7 @@
     "Count": 2
   },
   "games": [
+    "cakewars:dynasty_cake_wars",
     "cakewars:beehive_cake_wars",
     "cakewars:skylands_cake_wars"
   ],
