@@ -22,6 +22,14 @@
       }
     },
     {
+      "type": "nucleoid_extras:quick_portal",
+      "portal": "nucleoid:bow_battle/root",
+      "quick_portal": "nucleoid:bow_battle/random",
+      "message": {
+        "translate": "text.nucleoid_extras.ui.action.maps"
+      }
+    },
+    {
       "type": "plasmid:portal",
       "portal": "nucleoid:block_lobbers"
     },
