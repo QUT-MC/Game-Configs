@@ -1,0 +1,17 @@
+{
+  "type": "plasmid:random",
+  "games": [
+    "koth:birthday_cake",
+    "koth:ice",
+    "koth:stronghold_library",
+    "koth:weathered_wave",
+    "koth:dark_hills",
+    "koth:hill_fort",
+    "koth:jungle_hideout",
+    "koth:strawberry_dough"
+  ],
+  "name": {
+    "translate": "game.nucleoid.koth.deathmatch"
+  },
+  "icon": "minecraft:yellow_terracotta"
+}

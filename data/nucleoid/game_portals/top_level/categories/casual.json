@@ -48,6 +48,10 @@
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
+    },
+    {
+      "type": "plasmid:portal",
+      "portal": "nucleoid:volleyball"
     }
   ]
 }
