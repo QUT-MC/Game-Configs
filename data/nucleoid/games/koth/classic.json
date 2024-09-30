@@ -2,7 +2,6 @@
   "type": "plasmid:random",
   "games": [
     "nucleoid:koth/map_groups/stack",
-    "koth:dynasty", - repurpose for cake wars
     "koth:pyramid"
   ],
   "icon": "minecraft:debug_stick"
