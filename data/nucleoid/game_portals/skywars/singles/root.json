@@ -23,7 +23,8 @@
     "skywars:single/split",
     "skywars:single/tinytater",
     "skywars:single/waterfall",
-    "skywars:single/woodland"
+    "skywars:single/woodland",
+    "skywars:single/skyworld"
   ],
   "name": {
     "translate": "game.nucleoid.singles"

@@ -12,14 +12,6 @@
       "message": {
         "translate": "text.nucleoid_extras.ui.action.maps"
       }
-    },
-    {
-      "type": "nucleoid_extras:quick_portal",
-      "portal": "nucleoid:quakecraft/ctw/root",
-      "quick_portal": "nucleoid:quakecraft/ctw/random",
-      "message": {
-        "translate": "text.nucleoid_extras.ui.action.maps"
-      }
     }
   ]
 }

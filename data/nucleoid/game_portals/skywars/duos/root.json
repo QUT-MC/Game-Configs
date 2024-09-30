@@ -20,7 +20,8 @@
     "skywars:duos/split",
     "skywars:duos/tinytater",
     "skywars:duos/waterfall",
-    "skywars:duos/woodland"
+    "skywars:duos/woodland",
+    "skywars:duos/skyworld"
   ],
   "name": {
     "translate": "game.nucleoid.duos"
